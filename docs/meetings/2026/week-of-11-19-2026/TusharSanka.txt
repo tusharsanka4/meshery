@@ -1,0 +1,15 @@
+Hey, I am Tushar Sanka.
+
+I am a 4th Year student pursuing Computer Science.
+You can check my github out at https://github.com/tusharsanka4
+
+I am fairly new to Open Source but I am excited to contribute. 
+
+I've worked mostly with Agentic AI applications and smaller projects including hackathons and personal projects
+The 2 I would like to show are 
+https://github.com/tusharsanka4/Capstone-RecallFabric
+and 
+https://github.com/tusharsanka4/IncidentReport
+
+These are projects exemplifying MCP servers and Agentic AI systems I have built so far.
+Looking forward to Contribute!
